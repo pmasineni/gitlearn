@@ -1,0 +1,15 @@
+AZ104 - Labs
+
+az104-01a-aaduser1
+
+az104-01a-aaduser1@masinenivpgmail.onmicrosoft.com ---  M@sineni74
+
+az104-01a-aaduser2@masinenivpgmail.onmicrosoft.com  ---  Novus@321
+
+
+
+user1@masinenivpgmail.onmicrosoft.com - Sy5tech!
+
+user2@masinenivpgmail.onmicrosoft.com  -  Novus@123
+
+labuser1@masinenilab.onmicrosoft.com
